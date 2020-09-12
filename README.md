@@ -15,3 +15,10 @@
 ## Tela com erro.
 
 ![enter image description here](https://previews.dropbox.com/p/thumb/AA7eI3aENSRNA5LNVM-Wjd3FzuslFayv189lkzbr8ThXpEnieY8bzG6zLtiyhnEA0yVot-OViFNhwaE20I0RBQkhotJ2cUrSn_lABYIwV6Za_uALqjtNWTuLKT89zuVS1SJMo_fMcRXmttssPksX5HVSOrmrZxOmxbMXAYdQM0DyR9ztkPiRb9IvqLGygzDQVBWtckDuJCYE0QX4tEMgLYIyCeuh7CF53ZnToqZvusSKZadryWgwXwedkTMphY1m2HIR1zONqpmIDkpVUApB4bhz-hLTLyzouKUb-H_LKJdRgpD73TbpXX19iJpmcjWMP_dmCTTQyrDscEO4KrF5DA3pzn5wgZ0KogsGMqSuDOqBdQ/p.png?fv_content=true&size_mode=5)
+
+
+<p align="center">
+<h2>Tela inicial.</h2>
+ <img src="https://www.dropbox.com/s/k43r240w8uzu0wi/4%20-%20Tela%20com%20erro.png?dl=0" alt="Tela inicial.">
+
+</p>
