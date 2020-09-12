@@ -2,7 +2,7 @@
 
 ## Tela inicial.
 
-![Tela Inicial](https://previews.dropbox.com/p/thumb/AA4K1OQPIVDQ5PXXgxuIKUU649I_aPGMfv0xe_ZRJ2GnkGllJjJopOpavXpOvGDdsnOsDvtHlzOwIFleyYRCjWUls-lE8o-Go0cTWXaXlyuySdIm1k43QlG5K8IVNH1NgGQ2PYXJiE45diV5NkKhYqx9uDdI2asLBg_3mNY7F5goDPwGw5wWfcWnrejQmNyMlkPF9Hifq6_Y7aJnLNJHH9Mg4iNK2YBfiAMwgZcH8AOQCW8RaQoOFSqR3X1YI_76P5b-sCXiGFmdaxrwi62OgzXDd1LEILy36kMd5eJq5EUHtCDjiVngRD6F5COUvBxHMFbqwtVzPfTAea4inWN3AXPLv4Bh231aPAEURUCkFRZ0Mg/p.png?fv_content=true&size_mode=5)
+<a href="https://imgur.com/g9TgZ8t"><img src="https://i.imgur.com/g9TgZ8t.png" title="source: imgur.com" /></a>
 
 ## Tela com tarefas.
 
